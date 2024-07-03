@@ -1,0 +1,251 @@
+id,bidang,supplier,deskripsi,barang,provinsi,kota,kecamatan
+1,Makanan,PT Sari Rasa Nusantara,Pemasok bahan baku makanan tradisional,"Tepung beras, santan kelapa, gula merah",Jawa Tengah,Surakarta,Laweyan
+2,Kerajinan,CV Anyaman Indah,Produsen anyaman bambu dan rotan,"Keranjang, tikar, furnitur rotan",Bali,Gianyar,Ubud
+3,Tekstil,UD Batik Pesisir,Pengrajin kain batik pesisir,"Kain batik, baju batik, syal batik",Jawa Barat,Cirebon,Plered
+4,Pertanian,Koperasi Tani Makmur,Pemasok bibit dan pupuk organik,"Bibit sayuran, pupuk kompos, alat pertanian",Jawa Timur,Malang,Poncokusumo
+5,Kosmetik,PT Herbal Alami Nusantara,Produsen bahan baku kosmetik alami,"Ekstrak tumbuhan, minyak esensial, bahan pengawet alami",DI Yogyakarta,Sleman,Ngaglik
+6,Furniture,CV Kayu Jati Sejahtera,Pemasok kayu jati berkualitas,"Papan kayu jati, balok kayu jati, furniture mentah",Jawa Tengah,Jepara,Tahunan
+7,Perikanan,UD Laut Biru,Distributor ikan segar dan olahan,"Ikan segar, udang, kerang, ikan olahan",Sulawesi Selatan,Makassar,Ujung Tanah
+8,Elektronik,PT Komponen Handal,Pemasok komponen elektronik,"Resistor, kapasitor, sirkuit terpadu",Jawa Barat,Bekasi,Cikarang Barat
+9,Otomotif,CV Sparepart Jaya,Distributor suku cadang kendaraan,"Oli, filter, busi, kampas rem",DKI Jakarta,Jakarta Utara,Tanjung Priok
+10,Perkebunan,PT Kopi Arabika Gayo,Penghasil biji kopi arabika berkualitas,"Biji kopi arabika mentah, kopi sangrai",Aceh,Aceh Tengah,Bebesen
+11,Supplier Alat Tulis Kantor,CV Berkah Logistik,"Menyediakan berbagai macam alat tulis seperti pensil, penghapus, stapler, dan kertas untuk kebutuhan sekolah dan kantor","pensil, penghapus, stapler, dan kertas",Jawa Timur, Kota Surabaya,Tegalsari
+12,Kain,Toko Kain Jakarta,Menyediakan berbagai jenis kain,"Kain katun, kain satin, kain wol",DKI Jakarta,Jakarta Barat,Taman Sari
+13,Benang,PT Benang Nusantara,Pabrik benang berkualitas tinggi,"Benang katun, benang poliester",Jawa Barat,Bandung,Cimahi Utara
+14,Alat Jahit,CV Alat Jahit Semarang,Menjual alat-alat jahit dan aksesori,"Jarum, gunting, mesin jahit",Jawa Tengah,Semarang,Semarang Tengah
+15,Aksesoris,UD Aksesoris Konveksi Surabaya,Distributor aksesoris dan perlengkapan konveksi,"Kancing, resleting, pita",Jawa Timur,Surabaya,Genteng
+16,Kain,Toko Kain Tradisional Bali,Menjual kain tradisional Bali,"Kain endek, kain songket",Bali,Denpasar,Denpasar Barat
+17,Pewarna Tekstil,PT Pewarna Tekstil Solo,Produsen pewarna tekstil,"Pewarna kain, pewarna benang",Jawa Tengah,Surakarta,Laweyan
+18,Bahan Konveksi,Toko Bahan Konveksi Medan,Menjual bahan-bahan konveksi,"Kain denim, kain drill",Sumatera Utara,Medan,Medan Baru
+19,Kain,Supplier Kain Makassar,Penyedia berbagai jenis kain,"Kain chiffon, kain flanel",Sulawesi Selatan,Makassar,Ujung Pandang
+20,Mesin Jahit,CV Mesin Jahit Malang,Menjual berbagai jenis mesin jahit,"Mesin jahit industri, mesin obras",Jawa Timur,Malang,Klojen
+21,Benang,PT Benang Rajut Bandung,Pabrik benang rajut berkualitas tinggi,"Benang rajut akrilik, benang wol",Jawa Barat,Bandung,Bandung Kulon
+22,Kain,Toko Kain Sumatra,Menyediakan berbagai jenis kain,"Kain batik, kain linen",Sumatera Barat,Padang,Padang Barat
+23,Aksesoris,PT Aksesori Jahit Lampung,Distributor aksesori dan perlengkapan jahit,"Kancing, resleting, pita",Lampung,Bandar Lampung,Teluk Betung Utara
+24,Bahan Jahit,Toko Bahan Jahit Palembang,Menjual berbagai bahan jahit,"Kain drill, kain chiffon",Sumatera Selatan,Palembang,Ilir Timur
+25,Kain,CV Kain Kualitas Aceh,Menjual kain berkualitas tinggi,"Kain brokat, kain sutra",Aceh,Banda Aceh,Kuta Alam
+26,Benang,UD Benang Asli Medan,Pemasok benang berkualitas,"Benang nilon, benang poliester",Sumatera Utara,Medan,Medan Timur
+27,Perlengkapan Jahit,Toko Jahit Perlengkapan,Menyediakan perlengkapan jahit,"Gunting, jarum, benang",Riau,Pekanbaru,Sukajadi
+28,Kain,PT Kain Premium Jambi,Menjual kain premium,"Kain tenun, kain satin",Jambi,Jambi,Pasar Jambi
+29,Bahan Konveksi,CV Bahan Konveksi Bengkulu,Pemasok bahan konveksi,"Kain rayon, kain denim",Bengkulu,Bengkulu,Teluk Segara
+30,Kain,Toko Kain Tradisional Ambon,Menjual kain tradisional Maluku,"Kain ikat, kain songket",Maluku,Ambon,Sirimau
+31,Pewarna Tekstil,PT Pewarna Tekstil Gorontalo,Produsen pewarna tekstil,"Pewarna kain, pewarna benang",Gorontalo,Gorontalo,Hulonthalangi
+32,Aksesoris,UD Aksesori Jahit Banjarmasin,Distributor aksesori dan perlengkapan jahit,"Kancing, resleting, renda",Kalimantan Selatan,Banjarmasin,Banjarmasin Utara
+33,Kain,Toko Kain Murah Balikpapan,Menjual berbagai jenis kain,"Kain flanel, kain linen",Kalimantan Timur,Balikpapan,Balikpapan Kota
+34,Bahan Jahit,CV Bahan Jahit Pontianak,Menjual bahan-bahan jahit,"Kain drill, kain chiffon",Kalimantan Barat,Pontianak,Pontianak Kota
+35,Kain,PT Kain Berkualitas Manado,Menjual kain berkualitas tinggi,"Kain sutra, kain katun",Sulawesi Utara,Manado,Wenang
+36,Benang,UD Benang Makassar,Pemasok benang berkualitas,"Benang katun, benang poliester",Sulawesi Selatan,Makassar,Makassar Timur
+37,Bahan Jahit,Toko Bahan Jahit Kendari,Menjual berbagai bahan jahit,"Kain batik, kain linen",Sulawesi Tenggara,Kendari,Kendari Barat
+38,Kain,CV Kain Premium Gorontalo,Menjual kain premium,"Kain tenun, kain satin",Gorontalo,Gorontalo,Dungingi
+39,Pewarna Tekstil,PT Pewarna Tekstil Maluku,Produsen pewarna tekstil,"Pewarna kain, pewarna benang",Maluku Utara,Ternate,Ternate Tengah
+40,Bahan Jahit,Toko Jahit Bahan Mataram,Menyediakan berbagai bahan jahit,"Kain brokat, kain sutra",Nusa Tenggara Barat,Mataram,Cakranegara
+41,Benang,CV Benang Berkualitas Denpasar,Pemasok benang berkualitas tinggi,"Benang nilon, benang poliester",Bali,Denpasar,Denpasar Selatan
+42,Kain,Toko Kain Tradisional Kupang,Menjual kain tradisional NTT,"Kain tenun ikat, kain songket",Nusa Tenggara Timur,Kupang,Kelapa Lima
+43,Aksesoris,PT Aksesori Jahit Sorong,Distributor aksesori dan perlengkapan jahit,"Kancing, resleting, pita",Papua Barat,Sorong,Sorong Timur
+44,Bahan Konveksi,UD Bahan Konveksi Jayapura,Pemasok bahan konveksi,"Kain rayon, kain denim",Papua,Jayapura,Jayapura Selatan
+45,Kain,Toko Kain Premium Biak,Menjual kain premium,"Kain satin, kain tenun",Papua,Biak,Biak Kota
+46,Benang,PT Benang Rajut Sorong,Pabrik benang rajut berkualitas tinggi,"Benang rajut akrilik, benang wol",Papua Barat,Sorong,Sorong Barat
+47,Bahan Jahit,Toko Bahan Jahit Timika,Menjual bahan-bahan jahit,"Kain chiffon, kain flanel",Papua,Mimika,Mimika Baru
+48,Mesin Jahit,CV Mesin Jahit Jayapura,Menjual berbagai jenis mesin jahit,"Mesin jahit industri, mesin obras",Papua,Jayapura,Jayapura Utara
+49,Benang,PT Benang Sulawesi,Pabrik benang berkualitas tinggi,"Benang katun, benang poliester",Sulawesi Tengah,Palu,Palu Barat
+50,Aksesoris,UD Aksesori Konveksi Kendari,Distributor aksesoris dan perlengkapan konveksi,"Kancing, resleting, pita",Sulawesi Tenggara,Kendari,Kendari Timur
+51,Kain,Toko Kain Sumatra Barat,Menyediakan berbagai jenis kain,"Kain batik, kain linen",Sumatera Barat,Padang,Padang Selatan
+52,Skincare,PT Natural Extract,Supplier ekstrak alami untuk skincare,"Ekstrak Aloe Vera, Ekstrak Teh Hijau",Jawa Barat,Bandung,Cicendo
+53,Skincare,CV Pure Ingredients,Menyediakan bahan mentah organik,"Minyak Kelapa, Minyak Zaitun",DKI Jakarta,Jakarta Selatan,Kebayoran Baru
+54,Skincare,PT Herbal Essence,Supplier bahan herbal untuk kosmetik,"Ekstrak Chamomile, Ekstrak Lavender",Jawa Timur,Surabaya,Gubeng
+55,Skincare,PT Essential Oils,Menyediakan minyak esensial untuk skincare,"Minyak Lavender, Minyak Peppermint",Jawa Tengah,Semarang,Banyumanik
+56,Skincare,PT Natural Oils,Supplier minyak alami,"Minyak Argan, Minyak Jojoba",Bali,Denpasar,Denpasar Selatan
+57,Skincare,CV Herbal Extracts,Menyediakan ekstrak herbal,"Ekstrak Rosehip, Ekstrak Licorice",Jawa Barat,Bekasi,Bekasi Utara
+58,Skincare,PT Plant Extracts,Supplier ekstrak tanaman,"Ekstrak Ginseng, Ekstrak Witch Hazel",DKI Jakarta,Jakarta Barat,Palmerah
+59,Skincare,CV Organic Essentials,Menyediakan bahan organik,"Shea Butter, Cocoa Butter",Jawa Timur,Malang,Klojen
+60,Skincare,PT Raw Materials Co,Supplier bahan mentah kosmetik,"Gliserin, Asam Hialuronat",Sumatera Utara,Medan,Medan Petisah
+61,Skincare,CV Natural Solutions,Menyediakan solusi bahan alami,"Ekstrak Kunyit, Ekstrak Daun Sirih",DIY Yogyakarta,Yogyakarta,Gondokusuman
+62,Skincare,PT Beauty Ingredients,Supplier bahan kecantikan,"Niacinamide, Asam Salisilat",Banten,Tangerang,Karawaci
+63,Skincare,CV Skincare Essentials,Menyediakan bahan dasar skincare,"Vitamin C, Vitamin E",Jawa Tengah,Solo,Banjarsari
+64,Skincare,PT Organic Beauty,Supplier bahan organik untuk skincare,"Ekstrak Bunga Matahari, Ekstrak Delima",Jawa Barat,Depok,Beji
+65,Skincare,CV Pure Botanicals,Menyediakan bahan botani murni,"Ekstrak Bunga Chamomile, Ekstrak Pepaya",Kalimantan Barat,Pontianak,Pontianak Kota
+66,Skincare,PT Skincare Supplies,Supplier bahan untuk produk skincare,"Asam Glikolat, Asam Laktat",Sulawesi Selatan,Makassar,Ujung Pandang
+67,Skincare,CV Herbal Naturals,Menyediakan bahan herbal alami,"Minyak Tea Tree, Ekstrak Lemon",Bali,Gianyar,Ubud
+68,Skincare,PT Botanical Extracts,Supplier ekstrak botani,"Ekstrak Daun Neem, Ekstrak Bunga Marigold",DKI Jakarta,Jakarta Utara,Kelapa Gading
+69,Skincare,CV Organic Raw Materials,Menyediakan bahan mentah organik,"Minyak Almond, Minyak Biji Anggur",Jawa Barat,Bogor,Bogor Timur
+70,Skincare,PT Advanced Ingredients,Supplier bahan aktif untuk skincare,"Retinol, Peptida",Sumatera Selatan,Palembang,Ilir Barat
+71,Skincare,CV Essential Extracts,Menyediakan ekstrak esensial,"Ekstrak Witch Hazel, Ekstrak Daun Mint",Lampung,Bandar Lampung,Tanjung Karang
+72,Skincare,PT Premium Raw Materials,Supplier bahan premium untuk kosmetik,"Ceramide, Kolagen",Nusa Tenggara Barat,Mataram,Mataram Barat
+73,Skincare,CV Botanical Solutions,Menyediakan solusi bahan botani,"Ekstrak Bunga Lavender, Ekstrak Kaktus",Riau,Pekanbaru,Bukit Raya
+74,Skincare,PT Organic Extracts,Supplier ekstrak organik,"Ekstrak Teh Hijau, Ekstrak Daun Aloe",Kalimantan Timur,Samarinda,Samarinda Ulu
+75,Skincare,CV Pure Raw Materials,Menyediakan bahan mentah murni,"Minyak Kelapa, Minyak Kedelai",Jawa Timur,Sidoarjo,Sidoarjo Kota
+76,Skincare,PT Natural Botanicals,Supplier bahan botani alami,"Ekstrak Daun Sirih, Ekstrak Kulit Manggis",Sumatera Utara,Binjai,Binjai Utara
+77,Skincare,CV Herbal Supplies,Menyediakan bahan herbal untuk skincare,"Ekstrak Buah Delima, Ekstrak Lidah Buaya",Papua,Jayapura,Jayapura Utara
+78,Skincare,PT Pure Essentials,Supplier minyak esensial murni,"Minyak Eucalyptus, Minyak Rosemary",Maluku,Ambon,Sirimau
+79,Skincare,CV Natural Ingredients,Menyediakan bahan alami untuk skincare,"Shea Butter, Minyak Jojoba",Sulawesi Utara,Manado,Wenang
+80,Skincare,PT Beauty Raw Materials,Supplier bahan mentah kecantikan,"Asam Hialuronat, Vitamin C",Jambi,Jambi,Jambi Timur
+81,Skincare,CV Organic Botanicals,Menyediakan bahan botani organik,"Ekstrak Bunga Matahari, Ekstrak Kulit Jeruk",Aceh,Banda Aceh,Baiturrahman
+82,Skincare,PT Herbal Solutions,Supplier solusi bahan herbal,"Minyak Kelapa, Minyak Tea Tree",Bangka Belitung,Pangkal Pinang,Gabek
+83,Furniture,PT Woodcraft Supplies,Supplier kayu untuk furniture,"Kayu Jati, Kayu Mahoni",Jawa Tengah,Semarang,Banyumanik
+84,Busana,CV Textile Solutions,Menyediakan bahan tekstil untuk busana,"Katun, Sutra, Linen",DKI Jakarta,Jakarta Selatan,Kebayoran Baru
+85,Furniture,PT Timber Resources,Supplier kayu solid,"Kayu Pinus, Kayu Meranti",Jawa Timur,Surabaya,Gubeng
+86,Busana,PT Fabric Essentials,Menyediakan bahan kain,"Denim, Katun, Polyester",Jawa Barat,Bandung,Cicendo
+87,Furniture,PT Hardwood Supplies,Supplier kayu keras,"Kayu Eboni, Kayu Merbau",Bali,Denpasar,Denpasar Selatan
+88,Busana,CV Textile Mart,Menyediakan kain untuk busana,"Sutra, Wol, Rayon",DKI Jakarta,Jakarta Barat,Palmerah
+89,Furniture,PT Furniture Materials,Supplier bahan mentah untuk furniture,"MDF, Plywood, Veneer",Jawa Barat,Bekasi,Bekasi Utara
+90,Busana,CV Fabric World,Menyediakan berbagai jenis kain,"Katun, Linen, Spandex",Jawa Timur,Malang,Klojen
+91,Furniture,PT Wood Materials Co,Supplier bahan kayu,"Kayu Jati, Kayu Mahoni",Sumatera Utara,Medan,Medan Petisah
+92,Busana,CV Textile Hub,Menyediakan bahan tekstil,"Katun, Polyester, Rayon",DIY Yogyakarta,Yogyakarta,Gondokusuman
+93,Furniture,PT Lumber Supplies,Supplier kayu untuk pembuatan furniture,"Kayu Pinus, Kayu Meranti",Banten,Tangerang,Karawaci
+94,Busana,CV Textile Solutions,Menyediakan bahan kain untuk busana,"Denim, Wol, Sutra",Jawa Barat,Depok,Beji
+95,Furniture,PT Woodworks,Supplier kayu solid,"Kayu Eboni, Kayu Merbau",Kalimantan Barat,Pontianak,Pontianak Kota
+96,Busana,CV Fabric Mart,Menyediakan bahan kain,"Linen, Rayon, Spandex",Sulawesi Selatan,Makassar,Ujung Pandang
+97,Furniture,PT Timber Corp,Supplier bahan kayu,"Kayu Jati, Kayu Mahoni",Bali,Gianyar,Ubud
+98,Busana,CV Textile Depot,Menyediakan berbagai jenis kain,"Katun, Sutra, Linen",DKI Jakarta,Jakarta Utara,Kelapa Gading
+99,Furniture,PT Hardwood Solutions,Supplier kayu keras,"Kayu Pinus, Kayu Meranti",Jawa Barat,Bogor,Bogor Timur
+100,Busana,CV Fabric Hub,Menyediakan bahan tekstil untuk busana,"Denim, Wol, Rayon",Sumatera Selatan,Palembang,Ilir Barat
+101,Furniture,PT Timber Resources Co,Supplier kayu solid,"Kayu Eboni, Kayu Merbau",Lampung,Bandar Lampung,Tanjung Karang
+102,Busana,CV Textile World,Menyediakan bahan kain,"Katun, Polyester, Spandex",Nusa Tenggara Barat,Mataram,Mataram Barat
+103,Furniture,PT Lumber Yard,Supplier kayu untuk pembuatan furniture,"Kayu Jati, Kayu Merbau",Riau,Pekanbaru,Bukit Raya
+104,Busana,CV Fabric Essentials,Menyediakan bahan tekstil,"Sutra, Linen, Rayon",Kalimantan Timur,Samarinda,Samarinda Ulu
+105,Furniture,PT Timber Solutions,Supplier bahan kayu,"Kayu Pinus, Kayu Mahoni",Jawa Timur,Sidoarjo,Sidoarjo Kota
+106,Busana,CV Textile Depot,Menyediakan bahan kain untuk busana,"Katun, Polyester, Linen",Sumatera Utara,Binjai,Binjai Utara
+107,Furniture,PT Woodcraft Corp,Supplier kayu untuk furniture,"Kayu Eboni, Kayu Merbau",Papua,Jayapura,Jayapura Utara
+108,Busana,CV Textile Supplies,Menyediakan berbagai jenis kain,"Denim, Wol, Spandex",Maluku,Ambon,Sirimau
+109,Furniture,PT Hardwood Resources,Supplier kayu keras,"Kayu Jati, Kayu Mahoni",Sulawesi Utara,Manado,Wenang
+110,Busana,CV Fabric Mart,Menyediakan bahan kain,"Katun, Sutra, Linen",Jambi,Jambi,Jambi Timur
+111,Furniture,PT Timber Materials,Supplier bahan kayu,"Kayu Pinus, Kayu Meranti",Aceh,Banda Aceh,Baiturrahman
+112,Busana,CV Textile Solutions,Menyediakan bahan tekstil untuk busana,"Polyester, Wol, Spandex",Bangka Belitung,Pangkal Pinang,Gabek
+113,Furniture,PT Woodworks Co,Supplier kayu solid,"Kayu Eboni, Kayu Merbau",Jawa Barat,Cirebon,Lemahwungkuk
+114,Busana,CV Fabric World,Menyediakan berbagai jenis kain,"Katun, Linen, Rayon",Sumatera Barat,Padang,Padang Timur
+115,Furniture,PT Hardwood Supplies Co,Supplier kayu keras,"Kayu Jati, Kayu Meranti",DKI Jakarta,Jakarta Timur,Duren Sawit
+116,Busana,CV Textile Depot,Menyediakan bahan kain untuk busana,"Denim, Wol, Sutra",Jawa Tengah,Magelang,Magelang Selatan
+117,Furniture,PT Lumber Solutions,Supplier kayu untuk pembuatan furniture,"Kayu Pinus, Kayu Meranti",Bali,Badung,Kuta
+118,Busana,CV Textile Hub,Menyediakan bahan tekstil,"Katun, Linen, Rayon",Jawa Barat,Karawang,Karawang Barat
+119,Furniture,PT Timber Resources Co,Supplier kayu solid,"Kayu Jati, Kayu Mahoni",Sumatera Utara,Tebing Tinggi,Rambutan
+120,Busana,CV Fabric Solutions,Menyediakan berbagai jenis kain,"Sutra, Wol, Polyester",Kalimantan Selatan,Banjarmasin,Banjarmasin Tengah
+121,Furniture,PT Wood Materials,Supplier kayu untuk furniture,"Kayu Eboni, Kayu Merbau",Kalimantan Utara,Tarakan,Tarakan Barat
+122,Busana,CV Fabric Mart,Menyediakan bahan tekstil,"Katun, Polyester, Spandex",Sulawesi Tengah,Palu,Palu Barat
+123,Furniture,PT Timber Supplies,Supplier bahan kayu,"Kayu Jati, Kayu Mahoni",Papua Barat,Manokwari,Manokwari Barat
+124,Busana,CV Textile Solutions,Menyediakan bahan kain untuk busana,"Denim, Wol, Rayon",Gorontalo,Gorontalo,Kota Selatan
+125,Furniture,PT Woodcraft Supplies,Supplier kayu untuk furniture,"Kayu Pinus, Kayu Meranti",Sulawesi Barat,Mamuju,Mamuju Tengah
+126,Busana,CV Fabric Essentials,Menyediakan bahan tekstil,"Katun, Linen, Polyester",NTB,Sumbawa,Sumbawa Barat
+127,Furniture,PT Hardwood Corp,Supplier kayu keras,"Kayu Eboni, Kayu Merbau",NTT,Kupang,Kelapa Lima
+128,Busana,CV Textile Depot,Menyediakan berbagai jenis kain,"Katun, Sutra, Wol",Kalimantan Tengah,Palangka Raya,Pahandut
+129,Furniture,PT Timber Resources,Supplier bahan kayu,"Kayu Jati, Kayu Meranti",Maluku Utara,Ternate,
+130,Otomotif,PT Auto Parts Supply,Supplier komponen otomotif,"Piston, Gear, Bearing",Jawa Barat,Bandung,Cicendo
+131,Otomotif,CV Steel Manufacturing,Menyediakan bahan baku logam,"Baja, Aluminium, Kuningan",DKI Jakarta,Jakarta Timur,Cakung
+132,Otomotif,PT Rubber Industries,Supplier bahan karet,"Karet Ban, Karet Seal",Jawa Timur,Surabaya,Rungkut
+133,Otomotif,PT Metal Works,Menyediakan komponen logam,"Besi, Aluminium, Tembaga",Banten,Tangerang,Cikupa
+134,Otomotif,CV Auto Plastics,Supplier bahan plastik,"Plastik ABS, PVC, PP",Jawa Tengah,Semarang,Tembalang
+135,Otomotif,PT Engine Components,Menyediakan komponen mesin,"Piston, Crankshaft, Camshaft",DKI Jakarta,Jakarta Utara,Koja
+136,Otomotif,CV Automotive Chemicals,Supplier bahan kimia untuk otomotif,"Oli, Grease, Coolant",Jawa Barat,Bekasi,Jatiasih
+137,Otomotif,PT Glass Tech,Menyediakan kaca otomotif,"Kaca Depan, Kaca Samping",Jawa Timur,Malang,Sukun
+138,Otomotif,CV Battery Supplies,Supplier baterai untuk otomotif,"Baterai Aki, Baterai Lithium",DIY Yogyakarta,Yogyakarta,Gondokusuman
+139,Otomotif,PT Alloy Wheels,Menyediakan velg alloy,"Velg Aluminium, Velg Magnesium",Jawa Barat,Bogor,Bogor Utara
+140,Otomotif,CV Brake Components,Supplier komponen rem,"Disc Brake, Drum Brake",Jawa Timur,Sidoarjo,Waru
+141,Otomotif,PT Fuel Systems,Menyediakan sistem bahan bakar,"Fuel Pump, Injector",Jawa Tengah,Solo,Jebres
+142,Otomotif,CV Exhaust Tech,Supplier komponen knalpot,"Muffler, Catalytic Converter",DKI Jakarta,Jakarta Barat,Grogol
+143,Otomotif,PT Suspension Parts,Menyediakan komponen suspensi,"Shock Absorber, Coil Spring",Banten,Tangerang Selatan,Ciputat
+144,Otomotif,CV Interior Supplies,Supplier bahan interior otomotif,"Karpet, Jok",Jawa Barat,Depok,Pancoran Mas
+145,Otomotif,PT Wiring Solutions,Menyediakan kabel dan sistem kelistrikan,"Kabel, Relay, Fuse",Jawa Timur,Gresik,Manyar
+146,Otomotif,CV Lighting Systems,Supplier komponen pencahayaan otomotif,"Lampu LED, Lampu Halogen",Jawa Barat,Karawang,Karawang Timur
+147,Otomotif,PT Drive Systems,Menyediakan sistem penggerak,"Drive Shaft, CV Joint",Jawa Tengah,Magelang,Mertoyudan
+148,Otomotif,CV Cooling Components,Supplier komponen pendingin,"Radiator, Fan",DKI Jakarta,Jakarta Selatan,Pasar Minggu
+149,Otomotif,PT Transmission Parts,Menyediakan komponen transmisi,"Gearbox, Clutch Plate",Jawa Barat,Cirebon,Harjamukti
+150,Otomotif,CV Lubricant Supplies,Supplier pelumas otomotif,"Oli Mesin, Oli Transmisi",Jawa Timur,Kediri,Mojoroto
+151,Makanan,PT Food Supplies,Supplier bahan baku makanan,"Beras, Tepung, Gula",Jawa Barat,Bandung,Cicendo
+152,Minuman,CV Beverage Source,Menyediakan bahan baku minuman,"Sirup, Ekstrak Buah, Gula",DKI Jakarta,Jakarta Pusat,Gambir
+153,Makanan,PT Agro Food,Supplier bahan pangan,"Gandum, Jagung, Kedelai",Jawa Timur,Surabaya,Rungkut
+154,Minuman,PT Drink Essentials,Menyediakan bahan untuk minuman,"Teh, Kopi, Kakao",Jawa Tengah,Semarang,Banyumanik
+155,Makanan,CV Flour Mills,Supplier tepung untuk makanan,"Tepung Terigu, Tepung Beras",DKI Jakarta,Jakarta Utara,Koja
+156,Minuman,PT Juice Ingredients,Menyediakan bahan baku jus,"Buah Segar, Gula, Sirup",Jawa Barat,Bekasi,Jatiasih
+157,Makanan,PT Seafood Supply,Supplier bahan baku makanan laut,"Ikan, Udang, Cumi-cumi",Jawa Timur,Malang,Klojen
+158,Minuman,CV Brew Supplies,Menyediakan bahan untuk minuman fermentasi,"Malt, Hops, Ragi",DIY Yogyakarta,Yogyakarta,Gondokusuman
+159,Makanan,PT Fresh Produce,Supplier bahan baku sayuran,"Sayuran Segar, Buah Segar",Bali,Denpasar,Denpasar Selatan
+160,Minuman,PT Dairy Essentials,Menyediakan bahan baku susu,"Susu Segar, Krim, Keju",Jawa Barat,Bogor,Bogor Timur
+161,Makanan,CV Grain Supplies,Supplier biji-bijian,"Beras, Gandum, Kedelai",Sumatera Utara,Medan,Medan Petisah
+162,Minuman,PT Water Source,Menyediakan bahan baku air minum,"Air Mineral, Air RO",Banten,Tangerang,Karawaci
+163,Makanan,PT Meat Supplies,Supplier daging,"Daging Sapi, Daging Ayam",Jawa Barat,Depok,Beji
+164,Minuman,CV Soft Drink Supplies,Menyediakan bahan baku minuman ringan,"Sirup, Soda, Perasa Buah",Jawa Timur,Sidoarjo,Waru
+165,Makanan,PT Poultry Supplies,Supplier bahan baku unggas,"Daging Ayam, Telur",Kalimantan Barat,Pontianak,Pontianak Kota
+166,Minuman,PT Herbal Drink,Menyediakan bahan untuk minuman herbal,"Herbal, Ekstrak Tumbuhan",Sulawesi Selatan,Makassar,Ujung Pandang
+167,Makanan,CV Dairy Supplies,Supplier produk olahan susu,"Keju, Yogurt, Mentega",DKI Jakarta,Jakarta Barat,Palmerah
+168,Minuman,PT Organic Beverage,Menyediakan bahan baku minuman organik,"Teh Hijau, Jus Organik",Jawa Barat,Cirebon,Harjamukti
+169,Makanan,PT Spice World,Supplier rempah-rempah,"Lada, Kayu Manis, Kunyit",Jawa Tengah,Solo,Jebres
+170,Minuman,CV Coffee Source,Menyediakan biji kopi,"Kopi Arabika, Kopi Robusta",Jawa Timur,Banyuwangi,Rogojampi
+171,Makanan,PT Grain Export,Supplier biji-bijian ekspor,"Kedelai, Jagung, Beras",Lampung,Bandar Lampung,Tanjung Karang
+172,Minuman,PT Bottled Water,Menyediakan bahan baku untuk air kemasan,"Air Mineral, Air Distilasi",Sumatera Utara,Binjai,Binjai Utara
+173,Makanan,CV Organic Produce,Supplier bahan baku organik,"Sayuran Organik, Buah Organik",Bali,Gianyar,Ubud
+174,Minuman,PT Beverage Mixes,Menyediakan bahan campuran minuman,"Sirup, Esens, Perasa Buah",DIY Yogyakarta,Bantul,Sewon
+175,Makanan,PT Frozen Food Supply,Supplier bahan makanan beku,"Nugget, Sosis, Bakso",Jawa Barat,Bekasi,Bekasi Utara
+176,Minuman,CV Tea Supplies,Menyediakan berbagai jenis teh,"Teh Hitam, Teh Hijau, Teh Oolong",DKI Jakarta,Jakarta Selatan,Kebayoran Baru
+177,Makanan,PT Fishery Products,Supplier hasil laut,"Ikan Tuna, Udang, Kerang",Jawa Barat,Karawang,Karawang Barat
+178,Minuman,PT Soda Ingredients,Menyediakan bahan untuk soda,"Soda, Sirup, Perasa",Sumatera Selatan,Palembang,Ilir Timur
+179,Makanan,CV Poultry Products,Supplier produk unggas,"Telur Ayam, Daging Bebek",Kalimantan Selatan,Banjarmasin,Banjarmasin Barat
+180,Minuman,PT Beverage Base,Menyediakan bahan dasar minuman,"Konsentrat Jus, Sirup",Nusa Tenggara Barat,Mataram,Cakranegara
+181,Makanan,PT Nut Supplies,Supplier kacang-kacangan,"Kacang Tanah, Kacang Mete",Sulawesi Utara,Manado,Wenang
+182,Minuman,CV Beverage Solutions,Menyediakan bahan baku minuman,"Teh, Kopi, Sirup",Kalimantan Timur,Samarinda,Samarinda Ilir
+183,Makanan,PT Vegetable World,Supplier sayuran segar,"Brokoli, Wortel, Bayam",DKI Jakarta,Jakarta Timur,Duren Sawit
+184,Minuman,PT Milk Essentials,Menyediakan bahan baku produk susu,"Susu, Keju, Krim",Jawa Timur,Kediri,Mojoroto
+185,Makanan,CV Fruit Market,Supplier buah segar,"Apel, Jeruk, Anggur",Sumatera Utara,Tebing Tinggi,Bajenis
+186,Minuman,PT Herbal Supplies,Menyediakan bahan baku minuman herbal,"Jahe, Kunyit, Sereh",Aceh,Banda Aceh,Meuraxa
+187,Makanan,PT Bakery Supplies,Supplier bahan untuk bakery,"Tepung, Gula, Ragi",DKI Jakarta,Jakarta Barat,Cengkareng
+188,Minuman,CV Beverage World,Menyediakan bahan baku minuman,"Teh, Kopi, Sirup",Sumatera Barat,Padang,Padang Barat
+189,Makanan,PT Snack Ingredients,Supplier bahan untuk snack,"Tepung Tapioka, Garam, Gula",Jawa Barat,Tasikmalaya,Cihideung
+190,Minuman,PT Juice Supplies,Menyediakan bahan baku untuk jus,"Buah Segar, Sirup, Gula",Kalimantan Tengah,Palangka Raya,Pahandut
+191,Makanan,CV Cereal Supplies,Supplier bahan baku sereal,"Gandum, Oat, Jagung",Sulawesi Tenggara,Kendari,Mandonga
+192,Minuman,PT Soft Drink Essentials,Menyediakan bahan baku minuman ringan,"Sirup, Soda, Perasa Buah",Riau,Pekanbaru,Tampan
+193,Makanan,PT Meat Products,Supplier produk daging,"Daging Sapi, Daging Kambing",Bali,Denpasar,Denpasar Barat
+194,Minuman,CV Organic Drinks,Menyediakan bahan baku minuman organik,"Teh Organik, Jus Organik",NTB,Sumbawa,Sumbawa Barat
+195,Makanan,PT Frozen Seafood,Supplier makanan laut beku,"Ikan Beku, Udang Beku",Sulawesi Tengah,Palu,Palu Barat
+196,Minuman,PT Juice Extracts,Menyediakan bahan baku jus,"Ekstrak Buah, Gula, Sirup",Lampung,Metro,Metro Pusat
+197,Makanan,CV Noodle Ingredients,Supplier bahan baku mie,"Tepung Terigu, Garam, Minyak",Jawa Tengah,Pekalongan,Pekalongan Barat
+198,Makanan,PT Flavor Ingredients,Supplier bahan perasa untuk makanan,"Perasa Alami, Pewarna Makanan",Jawa Timur,Jember,Kaliwates
+199,Minuman,PT Beverage Essence,Menyediakan bahan esens untuk minuman,"Esens Buah, Esens Sirup",Sumatera Selatan,Palembang,Ilir Barat I
+200,Makanan,CV Condiment Supplies,Supplier bahan baku bumbu,"Bumbu Masak, Rempah",Jawa Barat,Sukabumi,Cicurug
+201,Makanan,PT Sari Rasa Nusantara,Pemasok bahan baku makanan tradisional,"Tepung beras, santan kelapa, gula merah",Jawa Tengah,Surakarta,Laweyan
+202,Kerajinan,CV Anyaman Indah,Produsen anyaman bambu dan rotan,"Keranjang, tikar, furnitur rotan",Bali,Gianyar,Ubud
+203,Tekstil,UD Batik Pesisir,Pengrajin kain batik pesisir,"Kain batik, baju batik, syal batik",Jawa Barat,Cirebon,Plered
+204,Pertanian,Koperasi Tani Makmur,Pemasok bibit dan pupuk organik,"Bibit sayuran, pupuk kompos, alat pertanian",Jawa Timur,Malang,Poncokusumo
+205,Kosmetik,PT Herbal Alami Nusantara,Produsen bahan baku kosmetik alami,"Ekstrak tumbuhan, minyak esensial, bahan pengawet alami",DI Yogyakarta,Sleman,Ngaglik
+206,Furniture,CV Kayu Jati Sejahtera,Pemasok kayu jati berkualitas,"Papan kayu jati, balok kayu jati, furniture mentah",Jawa Tengah,Jepara,Tahunan
+207,Perikanan,UD Laut Biru,Distributor ikan segar dan olahan,"Ikan segar, udang, kerang, ikan olahan",Sulawesi Selatan,Makassar,Ujung Tanah
+208,Elektronik,PT Komponen Handal,Pemasok komponen elektronik,"Resistor, kapasitor, sirkuit terpadu",Jawa Barat,Bekasi,Cikarang Barat
+209,Otomotif,CV Sparepart Jaya,Distributor suku cadang kendaraan,"Oli, filter, busi, kampas rem",DKI Jakarta,Jakarta Utara,Tanjung Priok
+210,Perkebunan,PT Kopi Arabika Gayo,Penghasil biji kopi arabika berkualitas,"Biji kopi arabika mentah, kopi sangrai",Aceh,Aceh Tengah,Bebesen
+211,Alat Tulis,CV Berkah Logistik,Menyediakan berbagai macam alat tulis,"Pensil, penghapus, stapler, dan kertas",Jawa Timur,Surabaya,Tegalsari
+212,Kain,Toko Kain Jakarta,Menyediakan berbagai jenis kain,"Kain katun, kain satin, kain wol",DKI Jakarta,Jakarta Barat,Taman Sari
+213,Benang,PT Benang Nusantara,Pabrik benang berkualitas tinggi,"Benang katun, benang poliester",Jawa Barat,Bandung,Cimahi Utara
+214,Alat Jahit,CV Alat Jahit Semarang,Menjual alat-alat jahit dan aksesori,"Jarum, gunting, mesin jahit",Jawa Tengah,Semarang,Semarang Tengah
+215,Aksesoris,UD Aksesoris Konveksi Surabaya,Distributor aksesoris dan perlengkapan konveksi,"Kancing, resleting, pita",Jawa Timur,Surabaya,Genteng
+216,Kain,Toko Kain Tradisional Bali,Menjual kain tradisional Bali,"Kain endek, kain songket",Bali,Denpasar,Denpasar Barat
+217,Pewarna Tekstil,PT Pewarna Tekstil Solo,Produsen pewarna tekstil,"Pewarna kain, pewarna benang",Jawa Tengah,Surakarta,Laweyan
+218,Bahan Konveksi,Toko Bahan Konveksi Medan,Menjual bahan-bahan konveksi,"Kain denim, kain drill",Sumatera Utara,Medan,Medan Baru
+219,Kain,Supplier Kain Makassar,Penyedia berbagai jenis kain,"Kain chiffon, kain flanel",Sulawesi Selatan,Makassar,Ujung Pandang
+220,Mesin Jahit,CV Mesin Jahit Malang,Menjual berbagai jenis mesin jahit,"Mesin jahit industri, mesin obras",Jawa Timur,Malang,Klojen
+221,Benang,PT Benang Rajut Bandung,Pabrik benang rajut berkualitas tinggi,"Benang rajut akrilik, benang wol",Jawa Barat,Bandung,Bandung Kulon
+222,Kain,Toko Kain Sumatra,Menyediakan berbagai jenis kain,"Kain batik, kain linen",Sumatera Barat,Padang,Padang Barat
+223,Aksesoris,PT Aksesori Jahit Lampung,Distributor aksesori dan perlengkapan jahit,"Kancing, resleting, pita",Lampung,Bandar Lampung,Teluk Betung Utara
+224,Bahan Jahit,Toko Bahan Jahit Palembang,Menjual berbagai bahan jahit,"Kain drill, kain chiffon",Sumatera Selatan,Palembang,Ilir Timur
+225,Kain,CV Kain Kualitas Aceh,Menjual kain berkualitas tinggi,"Kain brokat, kain sutra",Aceh,Banda Aceh,Kuta Alam
+226,Benang,UD Benang Asli Medan,Pemasok benang berkualitas,"Benang nilon, benang poliester",Sumatera Utara,Medan,Medan Timur
+227,Perlengkapan Jahit,Toko Jahit Perlengkapan,Menyediakan perlengkapan jahit,"Gunting, jarum, benang",Riau,Pekanbaru,Sukajadi
+228,Kain,PT Kain Premium Jambi,Menjual kain premium,"Kain tenun, kain satin",Jambi,Jambi,Pasar Jambi
+229,Bahan Konveksi,CV Bahan Konveksi Bengkulu,Pemasok bahan konveksi,"Kain rayon, kain denim",Bengkulu,Bengkulu,Teluk Segara
+230,Kain,Toko Kain Tradisional Ambon,Menjual kain tradisional Maluku,"Kain ikat, kain songket",Maluku,Ambon,Sirimau
+231,Pewarna Tekstil,PT Pewarna Tekstil Gorontalo,Produsen pewarna tekstil,"Pewarna kain, pewarna benang",Gorontalo,Gorontalo,Hulonthalangi
+232,Aksesoris,UD Aksesori Jahit Banjarmasin,Distributor aksesori dan perlengkapan jahit,"Kancing, resleting, renda",Kalimantan Selatan,Banjarmasin,Banjarmasin Utara
+233,Kain,Toko Kain Murah Balikpapan,Menjual berbagai jenis kain,"Kain flanel, kain linen",Kalimantan Timur,Balikpapan,Balikpapan Kota
+234,Bahan Jahit,CV Bahan Jahit Pontianak,Menjual bahan-bahan jahit,"Kain drill, kain chiffon",Kalimantan Barat,Pontianak,Pontianak Kota
+235,Kain,PT Kain Berkualitas Manado,Menjual kain berkualitas tinggi,"Kain sutra, kain katun",Sulawesi Utara,Manado,Wenang
+236,Benang,UD Benang Makassar,Pemasok benang berkualitas,"Benang katun, benang poliester",Sulawesi Selatan,Makassar,Makassar Timur
+237,Bahan Jahit,Toko Bahan Jahit Kendari,Menjual berbagai bahan jahit,"Kain batik, kain linen",Sulawesi Tenggara,Kendari,Kendari Barat
+238,Kain,CV Kain Premium Gorontalo,Menjual kain premium,"Kain tenun, kain satin",Gorontalo,Gorontalo,Hulonthalangi
+239,Bahan Konveksi,UD Bahan Konveksi Palu,Pemasok bahan konveksi,"Kain rayon, kain denim",Sulawesi Tengah,Palu,Palu Barat
+240,Kain,Toko Kain Tradisional Jayapura,Menjual kain tradisional Papua,"Kain ikat, kain songket",Papua,Jayapura,Jayapura Utara
+241,Makanan,PT Rasa Nusantara Makmur,Produsen makanan olahan dan camilan tradisional,"Keripik singkong, dodol, kue kering",Jawa Barat,Bandung,Bandung Wetan
+242,Kerajinan,CV Kerajinan Tangan Jogja,Pengrajin souvenir dan kerajinan tangan,"Patung kayu, gantungan kunci, miniatur candi",DI Yogyakarta,Yogyakarta,Kotagede
+243,Tekstil,PT Tekstil Utama Surabaya,Produsen kain dan tekstil,"Kain katun, kain poliester, kain viscose",Jawa Timur,Surabaya,Rungkut
+244,Pertanian,Koperasi Tani Sejahtera,Pemasok hasil pertanian organik,"Sayuran organik, buah organik, beras organik",Jawa Barat,Bogor,Cibinong
+245,Kosmetik,CV Kosmetik Alami Lombok,Produsen bahan baku kosmetik dari bahan alam,"Minyak kelapa, ekstrak bunga, madu alami",Nusa Tenggara Barat,Mataram,Ampenan
+246,Furniture,PT Furniture Nusantara,Produsen dan eksportir furniture kayu,"Meja, kursi, lemari kayu",Kalimantan Tengah,Palangkaraya,Jekan Raya
+247,Perikanan,CV Ikan Segar Papua,Distributor ikan segar dan hasil laut,"Ikan tuna, udang, kepiting",Papua,Jayapura,Abepura
+248,Elektronik,PT Elektronik Indonesia,Pemasok komponen elektronik dan gadget,"Microcontroller, sensor, perangkat IoT",Banten,Tangerang,Serpong
+249,Otomotif,UD Otomotif Jaya,Distributor sparepart dan aksesoris otomotif,"Velg, jok mobil, aksesori interior mobil",Jawa Barat,Bekasi,Jatiasih
+250,Perkebunan,PT Teh Nusantara,Penghasil dan pemasok teh berkualitas,"Daun teh hijau, teh hitam, teh oolong",Jawa Barat,Bandung,Cimenyan

@@ -1,0 +1,7 @@
+streamlit==1.36.0
+pandas
+azure-search-documents==11.4.0
+tabulate
+plotly
+python-dotenv
+openai
