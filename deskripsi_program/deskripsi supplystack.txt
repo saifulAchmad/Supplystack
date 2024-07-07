@@ -1,0 +1,35 @@
+
+Metode
+
+Kami memulai proyek ini dengan mencari data supplier yang ada di Indonesia. Kami mengumpulkan informasi dari berbagai sumber untuk mendapatkan gambaran yang jelas tentang kebutuhan pasar dan potensi inovasi teknologi. Kami mengidentifikasi bahwa akses informasi terkait supplier masih terbatas, sehingga peluang inovasi teknologi sangat besar. Aplikasi ini memberi kemudahan dengan adanya chatbot yang dapat mencari informasi sesuai kebutuhan dan lebih detail. Sistem ini dievaluasi dan dikembangkan sesuai dengan kebutuhan yang teridentifikasi. 
+
+
+Ide
+
+Kami melihat adanya kebutuhan akan akses informasi supplier yang lebih mudah dan detail. Ide utama adalah mengembangkan aplikasi yang memberikan kemudahan ini melalui chatbot dan fitur pencarian yang disesuaikan. 
+
+Produk ini menawarkan kemudahan akses informasi yang lebih baik dibandingkan dengan yang sudah ada di pasar, terutama dengan adanya fitur chatbot yang dapat memberikan informasi detail dan spesifik sesuai kebutuhan pengguna.
+
+
+Solusi
+
+Kami menggunakan teknologi Azure Search, Azure Web, dan Power BI untuk mengembangkan aplikasi ini. Aplikasi ini memiliki fitur pencarian dengan filter sesuai daerah dan chatbot. Fitur-fitur ini membantu pengguna mencari data sesuai kebutuhan dengan lebih mudah dan cepat.
+
+
+Proses Pemecahan Masalah
+
+Kami mengidentifikasi bahwa kesulitan utama adalah mencari data dan keterbatasan informasi yang ada di internet. Kami mengatasi masalah 
+
+ini dengan membuat data sintetik menggunakan ChatGPT sesuai kebutuhan.
+
+
+Target Pengguna
+
+Target pengguna utama adalah UMKM dan masyarakat umum yang membutuhkan akses mudah ke layanan B2B ke supplier. Aplikasi ini memberikan akses mudah untuk pencarian supplier dengan fitur pencarian nama barang dan lokasi, serta chatbot yang membantu pengguna menemukan supplier yang tepat sesuai kebutuhan mereka.
+
+
+Refleksi Hasil Belajar
+
+Kami belajar banyak dari pemecahan masalah bersama tim, dan mendapat banyak dukungan dari mentor yang sangat membantu. Untuk proyek-proyek mendatang, kami akan menerapkan beberapa teknologi sesuai yang diperlukan dan mengevaluasi relevansi fitur-fitur 
+
+yang ada. Kami akan mengevaluasi jika fitur masih relevan sesuai dengan kebutuhan proyek, maka fitur tersebut akan dipertahankan dan dieksplorasi lebih lanjut.
