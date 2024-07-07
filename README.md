@@ -19,7 +19,7 @@ Our primary target users are SMEs and the general public who need easy access to
 ## Link Webapp
 ![WhatsApp Image 2024-07-07 at 8 24 32 PM](https://github.com/saifulAchmad/Supplystack/assets/56012283/500bafbc-a6b6-4de9-a599-91a108cf3539)
 
-- [link - Webapp] : https://supplystack.azurewebsites.net/
+- [Link - Webapp] : https://supplystack.azurewebsites.net/
 
 ## Power BI Dashboard 
 
